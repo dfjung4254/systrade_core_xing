@@ -1,0 +1,6 @@
+# Ignore xing API
+xingAPI_Program(2020.02.05)/
+
+.vscode/
+
+*.zip
